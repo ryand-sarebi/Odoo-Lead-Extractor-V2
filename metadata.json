@@ -1,0 +1,6 @@
+{
+  "name": "Odoo AI Lead Extractor v2",
+  "description": "An intelligent tool that uses AI to parse the HTML from an Odoo leads page, extract lead information, and provide it in a clean, downloadable CSV format.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
